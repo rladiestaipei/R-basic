@@ -2,36 +2,15 @@
 
 You can use the [editor on GitHub](https://github.com/rladiestaipei/R-basic/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## R-Basic Series
 
-### Markdown
+<br>
+## Introduction
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<br>
+## Schedule
+<li> 2017 [R 學習地圖](https://github.com/rladiestaipei/R-basic/blob/master/%E7%B5%A6%E5%88%9D%E5%AD%B8%E5%A4%A5%E4%BC%B4%E7%9A%84R%E5%AD%B8%E7%BF%92%E5%9C%B0%E5%9C%96.pdf) </li>
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rladiestaipei/R-basic/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<br>
+## Slide
+<li> 201701 [R 軟體安裝](https://github.com/rladiestaipei/R-basic/blob/master/R%E8%BB%9F%E9%AB%94%E5%AE%89%E8%A3%9D.pdf)</li>
