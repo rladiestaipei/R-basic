@@ -10,4 +10,4 @@ R-ladies在2017年召集了一群夥伴，一起研習R-basic，並在每月主�
 ## Slide
 <li> 201701 <a href="https://drive.google.com/file/d/0B-P36xE97gjBeFYwNTdOaVFDdW8/view?usp=sharing" target="_blank">R 軟體安裝</a>  </li>
 <li> 201701 <a href="https://drive.google.com/file/d/0B-P36xE97gjBQTVXR3BsWUUxdVE/view?usp=sharing" target="_blank">R 軟體簡介</a>  </li>
-<li> 201702 <a href="https://drive.google.com/open?id=0B-P36xE97gjBZ1FwbWxYVm4yRUU" target="_blank">R 常用指令</a>  </li>
+<li> 201702 <a href="https://rladiestaipei.github.io/R-basic/R常用指令.html" target="_blank">R 常用指令</a>  </li>
