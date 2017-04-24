@@ -1,14 +1,24 @@
-<h2> Introduction </h2>
-R-LADIES TAIPEI 在2017年召集了一群夥伴，一起研習R-basic，並在每月主議程前，用15分鐘，帶領初學者一起進入 R 語言及資料分析的世界。
-
+<h3>Introduction</h3>
+<h4>
+<p class='text-left' style='line-height:150%'>
+R-Ladies Taipei 在2017年召集了一群夥伴，一起研習R-basic，並在每月主議程前，用15分鐘，帶領初學者一起進入R語言及資料分析的世界。
+</p>
+</h4>
 <br>
-<h2> Schedule </h2>
-2017年 R-basic series一共分為9個主題，歡迎 R 初學朋友follow R basic 教學及讀書會活動、參考github R-basic教材與資料，也歡迎大家在 R-LADIES TAIPEI 粉絲頁討論相關主題。
-<li> 2017 <a href="https://drive.google.com/open?id=0B-P36xE97gjBQmNNbnZXc2FwbDQ" target="_blank">R 學習地圖</a> </li>
-
+<h3>Schedule</h3>
+  <h4 class='text-left'>                            
+    <p style='line-height:150%'>
+      2017年 R-basic series一共分為9個主題，歡迎R初學朋友follow R basic 教學及讀書會活動、參考github R-basic教材與資料，也歡迎大家在 R-Ladies Taipei 粉絲頁討論相關主題。  
+      <li> 2017 <a href="https://github.com/rladiestaipei/R-basic/blob/master/2017_R學習地圖.pdf" target="_blank">R 學習地圖</a> </li>
+    </p>
+  </h4> 
 <br>
-<h2> Slide </h2>
-<li> 201701 <a href="https://drive.google.com/open?id=0B-P36xE97gjBeFYwNTdOaVFDdW8" target="_blank">R 軟體安裝</a>  </li>
-<li> 201701 <a href="https://drive.google.com/open?id=0B-P36xE97gjBQTVXR3BsWUUxdVE" target="_blank">R 軟體簡介</a>  </li>
-<li> 201702 <a href="https://rladiestaipei.github.io/R-basic/R常用指令.html" target="_blank">R 常用指令</a>  </li>
-<li> 201703 <a href="https://drive.google.com/open?id=0B-P36xE97gjBaV9Cb1d3NzVUblE" target="_blank">R 常用指令</a>  </li>
+<h3>Slide</h3>
+  <h4 class='text-left' style='line-height:150%'>
+    <p>
+      <li> 201703 <a href="https://github.com/rladiestaipei/R-basic/blob/master/201703_R常用指令.pdf" target="_blank">R 常用指令</a>  </li>
+      <li> 201702 <a href="https://rladiestaipei.github.io/R-basic/201702_R常用指令.html" target="_blank">R 常用指令</a>  </li>
+      <li> 201701 <a href="https://github.com/rladiestaipei/R-basic/blob/master/201701_R軟體簡介.pdf" target="_blank">R 軟體簡介</a>  </li>
+      <li> 201701 <a href="https://github.com/rladiestaipei/R-basic/blob/master/201701_R軟體安裝.pdf" target="_blank">R 軟體安裝</a>  </li>
+    </p>
+  </h4>  
