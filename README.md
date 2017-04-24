@@ -4,7 +4,7 @@
 R-Ladies Taipei 在2017年召集了一群夥伴，一起研習R-basic，並在每月主議程前，用15分鐘，帶領初學者一起進入R語言及資料分析的世界。
 </p>
 </h4>
-<br>
+
 <h3>Schedule</h3>
   <h4 class='text-left'>                            
     <p style='line-height:150%'>
@@ -12,7 +12,7 @@ R-Ladies Taipei 在2017年召集了一群夥伴，一起研習R-basic，並在�
       <li> 2017 <a href="https://github.com/rladiestaipei/R-basic/blob/master/2017_R學習地圖.pdf" target="_blank">R 學習地圖</a> </li>
     </p>
   </h4> 
-<br>
+
 <h3>Slide</h3>
   <h4 class='text-left' style='line-height:150%'>
     <p>
