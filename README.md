@@ -16,7 +16,7 @@ R-Ladies Taipei 在2017年召集了一群夥伴，一起研習R-basic，並在�
 <h3>Slide</h3>
 <h4 class='text-left'>
 <p  style='line-height:150%'>
-    <li> 201705 <a href="https://github.com/rladiestaipei/R-basic/201705_R數據結構與格式.html" target="_blank">R 數據結構與格式</a>  </li>
+    <li> 201705 <a href="https://rladiestaipei.github.io/R-basic/201705_R數據結構與格式.html" target="_blank">R 數據結構與格式</a>  </li>
     <li> 201704 <a href="https://github.com/rladiestaipei/R-basic/blob/master/201704_R套件教學.pdf" target="_blank">R 套件教學</a>  </li>
       <li> 201703 <a href="https://github.com/rladiestaipei/R-basic/blob/master/201703_R常用指令.pdf" target="_blank">R 常用指令</a>  </li>
       <li> 201702 <a href="https://rladiestaipei.github.io/R-basic/201702_R常用指令.html" target="_blank">R 常用指令</a>  </li>
