@@ -24,6 +24,6 @@ R-Ladies Taipei 在2017年召集了一群夥伴，一起研習R-basic，並在�
       <li> 201703 <a href="https://github.com/rladiestaipei/R-basic/blob/master/201703_R常用指令.pdf" target="_blank">R 常用指令</a>  </li>
       <li> 201702 <a href="https://rladiestaipei.github.io/R-basic/201702_R常用指令.html" target="_blank">R 常用指令</a>  </li>
       <li> 201701 <a href="https://github.com/rladiestaipei/R-basic/blob/master/201701_R軟體簡介.pdf" target="_blank">R 軟體簡介</a>  </li>
-      <li> 201701 <a href="https://github.com/rladiestaipei/R-basic/blob/master/201701_R軟體安裝.pdf" target="_blank">R 軟體安裝</a>  </li>
+      <li> 201701 <a href="https://github.com/rladiestaipei/R-basic/blob/master/201701_R軟體安裝.pdf" target="_blank">R 軟體安裝</a>  </li>
 </p>
 </h4>  
