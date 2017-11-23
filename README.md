@@ -16,7 +16,7 @@ R-Ladies Taipei 在2017年召集了一群夥伴，一起研習R-basic，並在�
 <h3>Slide</h3>
 <h4 class='text-left'>
 <p style='line-height:150%'>
-<li> 201710 R 遺漏值填補及資料型態轉換  </li>
+<li> 201710 <a href="https://github.com/rladiestaipei/R-basic/blob/master/201710_%E9%81%BA%E6%BC%8F%E5%80%BC%E5%A1%AB%E8%A3%9C%E5%8F%8A%E8%B3%87%E6%96%99%E5%9E%8B%E6%85%8B%E8%BD%89%E6%8F%9B.pdf" target="_blank">R 遺漏值填補及資料型態轉換</a>   </li>
 <li> 201709 R 敘述統計II  </li>
 <li> 201708 <a href="https://github.com/rladiestaipei/R-basic/blob/master/201708_R敘述統計.pdf" target="_blank">R 敘述統計</a>  </li>
 <li> 201707 <a href="https://github.com/rladiestaipei/R-basic/blob/master/201707_R讀取資料.pdf" target="_blank">R 讀取資料</a>  </li>
