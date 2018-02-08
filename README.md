@@ -16,9 +16,9 @@ R-Ladies Taipei 在2017年召集了一群夥伴，一起研習R-basic，並在�
 <h3>Slide</h3>
 <h4 class='text-left'>
 <p style='line-height:150%'>
-<li> 201801 <a href='https://github.com/rladiestaipei/R-basic/blob/master/201801_%E6%8A%BD%E6%A8%A3%E8%88%87%E9%9B%86%E6%88%90%E5%AD%B8%E7%BF%92.pdf'>R 數據抽樣&集成學習</a>  </li>
-<li> 201712 R 資料維度縮減  </li>
-<li> 201710 <a href="https://github.com/rladiestaipei/R-basic/blob/master/201710_%E9%81%BA%E6%BC%8F%E5%80%BC%E5%A1%AB%E8%A3%9C%E5%8F%8A%E8%B3%87%E6%96%99%E5%9E%8B%E6%85%8B%E8%BD%89%E6%8F%9B.pdf" target="_blank">R 遺漏值填補及資料型態轉換</a>   </li>
+<li> 201801 <a href='https://github.com/rladiestaipei/R-basic/blob/master/201801_R%E6%8A%BD%E6%A8%A3%E8%88%87%E9%9B%86%E6%88%90%E5%AD%B8%E7%BF%92.pdf'>R 數據抽樣&集成學習</a>  </li>
+<li> 201712 <a href='https://github.com/rladiestaipei/R-basic/blob/master/201712_R%E8%B3%87%E6%96%99%E5%89%8D%E8%99%95%E7%90%86%E7%B6%AD%E5%BA%A6%E7%B8%AE%E6%B8%9B.pdf'>R 資料維度縮減</a>  </li>
+<li> 201710 <a href="https://github.com/rladiestaipei/R-basic/blob/master/201710_R%E9%81%BA%E6%BC%8F%E5%80%BC%E5%A1%AB%E8%A3%9C%E5%8F%8A%E8%B3%87%E6%96%99%E5%9E%8B%E6%85%8B%E8%BD%89%E6%8F%9B.pdf" target="_blank">R 遺漏值填補及資料型態轉換</a>   </li>
 <li> 201709 R 敘述統計II  </li>
 <li> 201708 <a href="https://github.com/rladiestaipei/R-basic/blob/master/201708_R敘述統計.pdf" target="_blank">R 敘述統計</a>  </li>
 <li> 201707 <a href="https://github.com/rladiestaipei/R-basic/blob/master/201707_R讀取資料.pdf" target="_blank">R 讀取資料</a>  </li>
