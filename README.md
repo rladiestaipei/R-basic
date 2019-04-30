@@ -16,6 +16,7 @@ R-Ladies Taipei 在2017年召集了一群夥伴，一起研習R-basic，並在�
 <h3>Slide</h3>
 <h4 class='text-left'>
 <p style='line-height:150%'>
+<li> 201904 <a href="https://github.com/rladiestaipei/R-basic/blob/master/201904_R_ggplot.pdf">R ggplot </a>  </li>
 <li> 201806 <a href="https://github.com/rladiestaipei/R-basic/blob/master/201806_R%E8%88%87Tableau.pdf">R 與 Tableau II</a>  </li>
 <li> 201805 <a href="https://github.com/rladiestaipei/R-basic/blob/master/201805_R%E8%88%87Tableau.pdf">R 與 Tableau</a>  </li>
 <li> 201803 <a href="https://github.com/rladiestaipei/R-basic/blob/master/201803_%E6%99%82%E9%96%93%E8%88%87%E6%97%A5%E6%9C%9F%E8%B3%87%E6%96%99%E8%99%95%E7%90%86.pdf">R 時間與日期資料處理</a>  </li>
